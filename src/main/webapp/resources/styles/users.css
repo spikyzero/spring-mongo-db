@@ -1,0 +1,18 @@
+.card {
+    width: 300px !important;
+}
+
+.row {
+    gap: 30px;
+}
+
+.add-user-button {
+    position: absolute;
+    right: 120px;
+}
+
+.success-alert {
+    position: absolute !important;
+    left: 140px;
+    top: 87px;
+}

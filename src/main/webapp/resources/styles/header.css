@@ -1,0 +1,10 @@
+header {
+    justify-content: center;
+    display: flex;
+}
+
+.navbar {
+    background-color: #e3f2fd;
+    width: 90%;
+    border-radius: 30px;
+}
