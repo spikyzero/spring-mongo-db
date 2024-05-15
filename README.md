@@ -12,7 +12,7 @@ Application has home and users display page, also save user form.
 
 # Home display page
 
-<img width="1512" alt="image" src="https://github.com/spikyzero/spring-mongo-db/assets/57000663/4cf925bb-f03a-42d3-84a8-5af965b489b2">
+<img width="1512" alt="image" src="https://github.com/spikyzero/spring-mongo-db/assets/57000663/1f57852c-315a-4235-8eb5-6c4ce0060a13">
 
 # Users display page
 
